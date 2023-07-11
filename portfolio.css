@@ -1,0 +1,55 @@
+nav ul li{
+    display:inline;
+    padding:30px;
+}
+header{
+    text-align: center;
+    background-color:black;
+    border-radius: 20px;
+    padding:10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:azure;
+}
+h1{
+    color:bisque;
+}
+#Home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  main{
+    text-align:center;
+  }
+  #Portfolio{
+    background-color: rgb(176, 224, 113);
+    border-radius: 20px;
+    padding:10px;
+    margin: 0px 500px 0px 500px;
+  }
+  li{
+    display:inline;
+    margin-right:10px ;
+  }
+    
+  body {
+    /* The image used */
+    background-image: url("images.jpeg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+  }
